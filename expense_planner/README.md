@@ -1,6 +1,8 @@
 # expense_planner
 
-A new Flutter application.
+A new Flutter application. It can be used to manage and records daily expenses. It also shows a weekday Chart according to the Expenses.
+
+
 
 ## Getting Started
 
