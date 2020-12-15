@@ -2,7 +2,9 @@
 
 A new Flutter application. It can be used to manage and records daily expenses. It also shows a weekday Chart according to the Expenses.
 
-
+![alt text](https://github.com/GouravShDev/Flutter/blob/main/AppsImages/ExpensePlanner0.png?raw=true)
+![alt text](https://github.com/GouravShDev/Flutter/blob/main/AppsImages/ExpensePlanner1.png?raw=true)
+![alt text](https://github.com/GouravShDev/Flutter/blob/main/AppsImages/ExpensePlanner2.png?raw=true)
 
 ## Getting Started
 
